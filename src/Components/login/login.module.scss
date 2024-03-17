@@ -1,0 +1,48 @@
+
+.mainContainer{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    max-width: 100%;
+    align-items: center;
+    display: flex!important;
+    background-repeat: no-repeat;
+    background: linear-gradient(164deg,#71E5FF 0%,#262687 100%);
+    height:100vh;
+}
+.left{
+    width: 50%;
+    height: fit-content;
+    display: block !important;
+}
+.right{
+    width: 50%;
+    height: fit-content;
+    display: block !important;
+}
+#img{
+    /* margin-top:265px ; */
+    height: auto;
+    max-width: 100%;
+   
+}
+
+.login{
+
+  max-width: 100%;
+  background: #fff;
+  border-radius: 40px;
+  padding: 40px 40px;
+  position: relative;
+  margin-right: 120px !important;
+  margin-left: 50px !important;
+  text-align: center;
+  display: block !important; 
+ 
+
+}
+#loginImg{
+    height: 120px;
+    width: 100px;
+}
+

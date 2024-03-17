@@ -1,0 +1,31 @@
+.mainComponent{
+    height: 100vh;
+    // width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+    
+}
+.mainNavBar{
+    // padding: 19px 0;
+    background: #3C3BC3;
+    // width: 25%;
+    // height: 720px;
+    // max-width: 284px;
+    // font-family: Manrope,sans-serif!important;
+    // box-shadow: 0 5px 10px #00000005;
+    border:'8px solid green';
+    // position: fixed;
+    // top: 0;
+    // left: 0;
+    // z-index: 9;
+}
+.rightBarComponent{
+// background: #F6F7F9;
+background:yellowgreen;
+border: 4px solid aqua;
+border-radius:45px;
+height: 100vh;
+// width: 100%;
+}
